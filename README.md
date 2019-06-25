@@ -11,9 +11,9 @@ Project Contributors:
 
 - **Shaunak Bhanarkar | 2016A7PS0029G | B.E.(Hons.) Computer Science | BITS Pilani K K Birla Goa Campus**
 
-- **Tanmay Dixit | 2016B2A30593G | B.E.(Hons.) Computer Science | BITS Pilani K K Birla Goa Campus**
+- **Tanmay Dixit | 2016B2A30593G | M.Sc. Chemistry + B.E.(Hons.) Electronics and Electrical Engineering | BITS Pilani K K Birla Goa Campus**
 
-- **Yash Jain | 2017AAPS0985G | B.E.(Hons.) Computer Science | BITS Pilani K K Birla Goa Campus**
+- **Yash Jain | 2017AAPS0985G | B.E.(Hons.) Electronics and Communication Engineering | BITS Pilani K K Birla Goa Campus**
 
 Project Duration: **Jan - May 2019**
 
